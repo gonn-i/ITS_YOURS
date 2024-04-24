@@ -1,4 +1,3 @@
-[결과보고서_8팀(대학전공책중고거래플랫폼).pdf](https://github.com/gonn-i/ITS_YOURS/files/15094243/_8.pdf)# **이제너해\_its-yours**
 
 ## 한 학기만 쓰고 버리는 전공책이 이제는 아깝지 않도록
 
@@ -40,6 +39,8 @@
 ## 시현 영상 full version
 [시현 영상🎥 ](https://drive.google.com/file/d/1flRB1yYUV6-HW0tC8s-jOvKj-WDZ3000/view?usp=drive_link)
 
+---
+
 ##### 🔧기술 스택
 
 - 공통스택
@@ -77,6 +78,8 @@
   	<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
   </div>
 
+---
+
 ##### 와이어 프레임 & API 문서
 
 - [와이어 프레임](https://www.figma.com/files/project/217859975/Team-project?fuid=1329746140332818240)
@@ -110,7 +113,7 @@
 
 ### 회원가입/아이디찾기/비밀번호찾기/로그인
 - 회원가입_ 아이디,이메일 중복검사/ 메일인증 절차/ 학교명 입력
-- 어아다첮기
+- 아이디찾기
 - 비밀번호찾기_ 메일 인증을 통해, 비밀번호 초기화
 - 로그인 
 
@@ -173,4 +176,4 @@ https://github.com/gonn-i/ITS_YOURS/assets/121345759/6fa13291-89c8-4ab5-bba8-734
 | ------- | ------- | ------- | -------- | -------- | -------- | -------- |
 | 이정은  | 유경아  | 류효종  | 김지윤   | 임예림   | 김고은   | 정한석   |
 
-### 😎감사합니다!😘
+
